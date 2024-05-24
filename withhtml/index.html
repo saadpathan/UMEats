@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UMEats</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>UMEats</h1>
+        </header>
+        <main>
+            <div id="statistics">
+                <p>Available Meals: <span id="availableMeals">0</span></p>
+                <p>Served Meals: <span id="servedMeals">0</span></p>
+            </div>
+            <div class="menu">
+                <button id="addMealBtn">Add Meal</button>
+                <button id="takeMealBtn">Take Meal</button>
+                <button id="exitBtn">Exit</button>
+            </div>
+            <div id="formSection" class="hidden">
+                <form id="mealForm">
+                    <div id="areaBlockSelection">
+                        <label for="area"><br>Select Area:</label>
+                        <select id="area">
+                            <option value="">-- Select Area --</option>
+                        </select>
+                        <label for="block"><br>Select Block:</label>
+                        <select id="block">
+                            <option value="">-- Select Block --</option>
+                        </select>
+                    </div>
+                    <div id="quantityInput">
+                        <label for="quantity">Enter Meal Quantity:<br></label>
+                        <input type="number" id="quantity" min="1">
+                    </div>
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+            <div id="message" class="hidden"></div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
