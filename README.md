@@ -1,4 +1,4 @@
-# UMEats - Free Food Management System
+# UMEats - Every Bite Counts
 
 **UMEats** is an innovative Free Food Management System designed to reduce food waste and promote sustainability within the University of Malaya campus. The system is developed in collaboration with the **UM Zero Waste Campaign (UMZWC)**, a longstanding initiative dedicated to achieving a zero-waste campus through sustainable waste management practices.
 
