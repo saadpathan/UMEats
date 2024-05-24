@@ -25,10 +25,6 @@ University campuses often generate significant food waste, especially after vari
 - **Promotes Sustainability**: Aligning with the UM Zero Waste Campaign, UMEats fosters a culture of sustainability and responsible resource management.
 - **Supports Students**: The system ensures that surplus food reaches students who need it, providing an additional resource for those who may face food insecurity.
 
-### Code Example
-
-Below is a sample Java code snippet that illustrates the core functionality of UMEats. The code demonstrates how users can add and take meals, along with displaying real-time statistics.
-
 ### Conclusion
 
 **UMEats** is a crucial step towards sustainable living on campus, encouraging the responsible use of resources and reducing food waste. By participating in UMEats, the University of Malaya community can contribute to a greener, more sustainable future while supporting their fellow students.
